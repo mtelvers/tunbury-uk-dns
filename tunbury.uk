@@ -1,0 +1,6 @@
+$ORIGIN tunbury.uk.
+$TTL 3600
+@	SOA	ns1	hostmaster	1	86400	7200	1048576	3600
+@	NS	ns1
+ns1     A       127.0.0.1
+www	A	1.1.1.1
