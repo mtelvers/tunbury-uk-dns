@@ -1,4 +1,4 @@
-$ORIGIN tunbury.uk.
+$ORIGIN tunbury.
 $TTL 3600
 @	SOA	ns1	hostmaster	1	86400	7200	1048576	3600
 @	NS	ns1
